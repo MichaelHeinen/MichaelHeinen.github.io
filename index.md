@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# Gibson ES-335, die erste erfolgreiche semiakustische Gitarre
