@@ -1,7 +1,9 @@
 # Gibson ES-335, die erste erfolgreiche semiakustische Gitarre
 
-Die ES-335 wurde 1958 als Bindeglied zwischen den Vollresonanz-Gitarren
-und den rückkopplungsarmen Vollholz-Gitarren, wie der Les Paul oder
-Fender Telecaster, entwickelt. Optisch erinnert sie an die Archtop
-Serie, ist aber westentlich dünner, und durch den durchgehenden Holsblock
-in der Mitte wir das Aufschwingen der Decke und des Bodens verhindert.
+The Gibson ES-335 is the world's first commercial semi-hollowbody electric guitar,
+It is neither fully hollow nor fully solid; instead, a solid maple wood block runs
+through the center of its body. The side "wings" formed by the two "cutaways"
+into its upper bouts are hollow, and the top has two violin-style f-holes over
+the hollow chambers.
+
+
