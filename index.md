@@ -22,3 +22,5 @@ the hollow chambers.
 > [Michael Heinen about his ES-335 Dot PRO]
 >
 > The Dirty Finger Pickups are so hot, you burn your fingers.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/1960_Gibson_ES-335TD.jpg/220px-1960_Gibson_ES-335TD.jpg"/>
