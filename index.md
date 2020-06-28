@@ -12,6 +12,13 @@ the hollow chambers.
 * can be played lound without feedback
 * is extremly versatile
 
-Larry Carlton on premierguitar:
-> The belle of the ball is Carlton’s #1, a 1969 Gibson ES-335 he purchased
+> Zitate:
+>
+> [Larry Carlton on premierguitar:]
+>
+> The belle of the ball is Carlton’s No 1, a 1969 Gibson ES-335 he purchased
 > new in ’69. This is the guitar that earned him the “Mr. 335” moniker. 
+>
+> [Michael Heinen über seine ES-335 Dot PRO]
+>
+> The Dirty Finger Pickups are so hot, you burn your fingers.
